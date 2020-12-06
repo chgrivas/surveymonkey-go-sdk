@@ -1,4 +1,7 @@
 # surveymonkey-go-sdk
+
+[![Build Status](https://travis-ci.com/chgrivas/surveymonkey-go-sdk.svg?branch=main)](https://travis-ci.com/chgrivas/surveymonkey-go-sdk)
+
 The SurveyMonkey SDK for Go programming language.
 
 ## Install
